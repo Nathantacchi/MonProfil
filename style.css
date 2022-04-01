@@ -1,0 +1,84 @@
+body {
+	font-family: 'Assistant', sans-serif;
+	text-align:center;
+	font-size:24px;
+	background-image:url(file:///C:/Users/natha/Desktop/profil%20-%20nathan/Plan%20de%20travail%2012.png);
+
+}
+a{
+	text-decoration:none;
+	background-color:rgba(166,157,226,255);
+	border-radius: 10px;
+	color:black;
+}
+h1{
+	color:rgba(187, 92, 77, 0.8);
+}
+h2 {
+	color:rgba(187, 92, 77, 0.8);
+}
+.general {
+	width:  800px;
+	height:  250px;
+	border: 2px solid rgba(166,157,226,255);
+	margin: 35px auto;
+	padding: 15px;
+	border-radius:15px;
+	box-shadow:5px 20px 20px rgba(166,157,226,255);
+	background-color:rgba(166,157,226,255);
+}
+a:hover {
+	background-color: rgba(230,203,200,255);
+}
+#exppro {
+	width:800px;
+	height:870px;
+	border:6px solid rgba(230,203,200,255); 
+	margin:35 px auto;
+	padding:  15px;
+	border-radius:15px;
+	box-shadow:5px 20px 20px rgba(166,157,226,255);
+	background-color:rgba(166,157,226,255) ;
+}
+#photo {
+	width:  800px;
+	height:  400px;
+	border: 6px solid rgba(230,203,200,255);
+	margin: 35px auto;
+	padding: 15px;
+	border-radius:15px;
+	box-shadow:5px 20px 20px rgba(166,157,226,255);
+	background-color:rgba(166,157,226,255) ;
+}
+img {
+	border-radius:15px;
+	box-shadow:5px 10px 10px rgba(166,157,226,255);
+}
+#cote{
+	display: flex;
+	height: 650px;
+}
+.cote1 {
+	height: 600px;
+	margin: 5px;
+	border: 6px solid rgba(230,203,200,255);
+}
+#intro {
+	width:  800px;
+	height:  200px;
+	border: 6px solid rgba(230,203,200,255);
+	margin: 35px auto;
+	padding: 15px;
+	border-radius:15px;
+	box-shadow:5px 20px 20px rgba(166,157,226,255);
+	background-color:rgba(166,157,226,255) ;
+}
+#exppro li {
+    list-style-type: none ; 
+}
+.cote1 li {
+	list-style-type: none;
+}
+.reseau li {
+	list-style-type: none;
+}
